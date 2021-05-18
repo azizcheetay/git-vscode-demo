@@ -19,3 +19,4 @@ git init sub-folder
 put your comment and tick
 
 second commit add this commit to previous commit
+Commit all(Amend)
