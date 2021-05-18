@@ -22,6 +22,7 @@ git log
 
 second commit add this commit to previous commit
 Commit all(Amend)
+<<<<<<< HEAD
 git log
 
 timeline view in VSCode
@@ -37,3 +38,4 @@ git push -u origin master
 how to pull changes from remote
 make some changes on github repo from web
 and now pull
+changes from web.
